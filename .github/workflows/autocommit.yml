@@ -25,8 +25,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "admin@firstplato.com"
-          git config --local user.name "ipang-dwi"
+          git config --local user.email "daniasefine@gmail.com"
+          git config --local user.name "daniasefine"
           git add -A
           
           arr[0]="feat: :tiger: auto commit"
